@@ -1,0 +1,12 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:DatingApp}/API/datingapp.db",
+            "name": "asdfasdf",
+            "group": "asdf"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
